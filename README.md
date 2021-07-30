@@ -10,5 +10,5 @@ script bowtie2_210730.log
 ```bash
 Rscript Bowtie2BuildAndCal.R -h
 ```
-![image](picture or gif url)
+![image](截圖 2021-07-30 下午4.47.24.png)
 

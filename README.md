@@ -12,7 +12,7 @@ script bowtie2_210730.log
 ```R
 Rscript Bowtie2BuildAndCal.R -h
 ```
-![image](https://github.com/Hsin-Ping/Bowtie2_Cal_Rscript/blob/master/)
+![image](https://github.com/Hsin-Ping/Bowtie2_Cal_Rscript/blob/master/Bowtie2BuildAndCal_help.png)
 
 ### Running Bowtie2BuildAndCal.R:
 ```R

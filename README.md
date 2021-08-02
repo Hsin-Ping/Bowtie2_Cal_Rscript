@@ -27,3 +27,5 @@ exit
 cd to the folder which save all bowtie2 result, and run the Bowtie2ResultExtract.R. The script will extracts fpkm, deseq, counts by default order.
 ## Instruction of Bowtie2ResultExtractByCmd.R
 cd to the folder which save all bowtie2 result, and giving the key words of samples by the order you want.
+
+![image](https://github.com/Hsin-Ping/Bowtie2_Cal_Rscript/blob/master/Bowtie2ResultExtract_help.png)

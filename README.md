@@ -12,7 +12,7 @@ script bowtie2_210730.log
 ```R
 Rscript Bowtie2BuildAndCal.R -h
 ```
-![image](https://github.com/Hsin-Ping/Bowtie2_Cal_Rscript/blob/master/截圖%202021-07-30%20下午4.47.24.png)
+![image](https://github.com/Hsin-Ping/Bowtie2_Cal_Rscript/blob/master/)
 
 ### Running Bowtie2BuildAndCal.R:
 ```R

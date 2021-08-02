@@ -24,3 +24,6 @@ exit
 ```
 
 ## Instruction of Bowtie2ResultExtract.R 
+cd to the folder which save all bowtie2 result, and run the Bowtie2ResultExtract.R. The script will extracts fpkm, deseq, counts by default order.
+## Instruction of Bowtie2ResultExtractByCmd.R
+cd to the folder which save all bowtie2 result, and giving the key words of samples by the order you want.
